@@ -77,7 +77,7 @@ export const portfolioData = {
         title: "Sales Performance & Profitability Analysis Dashboard",
         description: "Phân tích tổng quan hiệu suất kinh doanh, phân tích sâu profit margin theo sản phẩm, kiểm soát chi phí trong giai đoạn doanh số thấp, xây dựng dự báo nhu cầu theo mùa.",
         tags: ["SQL Server", "Power BI"],
-        image: "https://i.postimg.cc/8kXdxyfH/Untitled.png",
+        image: "",
         link: "#"
       }
     ] as Project[]

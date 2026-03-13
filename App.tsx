@@ -11,7 +11,8 @@ import { Contact } from "./components/Contact";
 import { ChatWidget } from "./components/ChatWidget";
 
 import { Loader } from "lucide-react";
-
+import { BrowserRouter, Routes, Route } from "react-router-dom";
+import CVPage from "./components/CVPage";
 const App: React.FC = () => {
   const [isLoaded, setIsLoaded] = useState(false);
 
